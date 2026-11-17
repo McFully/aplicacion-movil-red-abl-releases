@@ -1,0 +1,37 @@
+﻿PROPRIETARY AND CONFIDENTIAL LICENSE (ALL RIGHTS RESERVED)
+
+(c) 2026 Aritz Bahamonde Larxé. Todos los derechos reservados.
+
+==============================================================================
+AVISO LEGAL DE DERECHOS DE AUTOR Y PROPIEDAD INTELECTUAL
+PROYECTO / PLATAFORMA: RED ABL (https://red-abl.internal / https://red-abl.com)
+TITULAR EXCLUSIVO: Aritz Bahamonde Larxé
+==============================================================================
+
+Queda terminantemente prohibida la reproducción total o parcial, copia, clonación,
+distribución, ingeniería inversa, descompilación, venta, sublicenciamiento, cesión,
+alquiler o comunicación pública de este software, diseño, arquitectura, código fuente,
+interfaces gráficas (UI/UX), bases de datos, APIs, scripts y algoritmos asociados,
+sin la autorización previa, expresa y por escrito de su único titular legítimo:
+ARITZ BAHAMONDE LARXÉ.
+
+1. PROPIEDAD EXCLUSIVA
+Todo el código fuente, componentes interactivos, esquemas de datos en Supabase,
+estilos CSS, lógica de gamificación, agentes de Inteligencia Artificial (Mónica, Valentina COO,
+Consultor de Negocios), y recursos gráficos contenidos en este repositorio son propiedad
+exclusiva e inalienable de Aritz Bahamonde Larxé.
+
+2. PROHIBICIÓN DE CLONACIÓN Y USO COMERCIAL NO AUTORIZADO
+Ninguna persona física o jurídica podrá utilizar este software ni sus derivados con fines
+comerciales, creación de productos competidores o despliegues no autorizados sin un contrato
+de licencia firmado específicamente por el titular de los derechos.
+
+3. DERECHO DE PERSECUCIÓN LEGAL
+Cualquier infracción de estos derechos de propiedad intelectual e industrial será perseguida
+conforme a la legislación española, comunitaria europea e internacional aplicable en materia
+de propiedad intelectual, patentes y marcas (incluyendo el Real Decreto Legislativo 1/1996,
+Directiva (UE) 2019/790 y tratados de la OMPI).
+
+==============================================================================
+Para solicitudes de licencia o consultas: aritz.bahamonde@gmail.com
+==============================================================================
